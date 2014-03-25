@@ -44,6 +44,7 @@
   <!--   <test_depend>gtest</test_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>ur_description</run_depend>
+  <run_depend>pr2_controller_manager</run_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
